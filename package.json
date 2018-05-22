@@ -1,5 +1,6 @@
 {
   "name": "flat-surface-shader",
+  "version": "0.1.0",
   "main": "deploy/fss.js", 
   "private": true
 }
